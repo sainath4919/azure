@@ -10,7 +10,7 @@
         <h1>Hello from SathyaTech</h1>
         <h1>GoodDay DevOps!</h1>
 
-<table width="60%" bgcolor="brown" align="center" border="2">
+<table width="80%" bgcolor="pink" align="center" border="2">
 
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
